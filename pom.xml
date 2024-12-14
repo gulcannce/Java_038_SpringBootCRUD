@@ -8,7 +8,7 @@
         <version>3.1.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.mimaraslan</groupId>
+    <groupId>com.gulcancelik</groupId>
     <artifactId>Java_038_SpringBootCRUD</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Java_038_SpringBootCRUD</name>
